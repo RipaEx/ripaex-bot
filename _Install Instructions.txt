@@ -10,7 +10,11 @@ Create a bot on the developers portal and add your token which you get to the bo
 
 https://discordapp.com/developers/applications/
 
-Note: By default it is named ripaex-bot but that can be changed if needed.
+Note: By default it is named ripaex-bot but that can be changed if needed. 
+
+If you need a guide to create a Discord bot and get a token can be found here:
+
+https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
 
 Run the following command in the bots dir:
 
