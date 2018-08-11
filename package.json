@@ -1,0 +1,13 @@
+{
+  "name": "ripaex-bot",
+  "version": "0.0.1",
+  "description": "Ripaex Bot",
+  "main": "bot.js",
+  "author": "bluedragon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}

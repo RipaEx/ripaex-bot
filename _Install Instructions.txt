@@ -1,0 +1,19 @@
+In the dir you extract to add the required packages:
+
+npm i discord.js
+npm i request
+npm i request-promise
+
+In the botsettings.json set the channel to whatever you want. 
+
+Create a bot on the developers portal and add your token which you get to the botsettings.json file:
+
+https://discordapp.com/developers/applications/
+
+Note: By default it is named ripaex-bot but that can be changed if needed.
+
+Run the following command in the bots dir:
+
+node "bot.js"
+
+The bot should now be running. Type !help in the Discord channel you set to see a list of the available commands.
