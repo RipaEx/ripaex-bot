@@ -1,4 +1,4 @@
-In the dir you extract to add the required packages:
+First make sure nodejs and npm are installed on your vps then in the dir you extract to add the required packages:
 
 npm i discord.js
 npm i request
