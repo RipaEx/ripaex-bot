@@ -4,7 +4,7 @@
   "description": "Ripaex Bot",
   "main": "bot.js",
   "author": "bluedragon",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "^11.3.2",
     "request": "^2.88.0",
